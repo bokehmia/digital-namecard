@@ -4,11 +4,11 @@ PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Krogh;Morten;Aagaard;;;
 FN: Morten Aagaard  Krogh 
 ORG:Bokehmia;
-TITLE:Journalist \nPhotographer/Videographer
+TITLE:Journalist \nPhotographer | Videographer
 EMAIL;type=INTERNET;type=WORK;type=pref:me@mortenkrogh.com
 TEL;type=WORK;type=VOICE:+45 6063 0964
 item1.ADR;type=WORK;type=pref:;;Nyborggade 11F, 10. nr.  View\n \, ;;;2100;København Ø
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:mortenkrogh.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
